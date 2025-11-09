@@ -1,0 +1,1 @@
+C:\SANTHOSH\Unity Projects\2D Platformer\2D Platformer\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\6g4x5r4u\obj\armeabi-v7a

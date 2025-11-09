@@ -1,0 +1,5 @@
+C:/Users/santh/Downloads/traveler-of-the-light-main/traveler-of-the-light-main/.utmp/RelWithDebInfo/5j66r4x6/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/santh/Downloads/traveler-of-the-light-main/traveler-of-the-light-main/.utmp/RelWithDebInfo/5j66r4x6/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+C:/Users/santh/Downloads/traveler-of-the-light-main/traveler-of-the-light-main/.utmp/RelWithDebInfo/5j66r4x6/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/santh/Downloads/traveler-of-the-light-main/traveler-of-the-light-main/.utmp/RelWithDebInfo/5j66r4x6/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/santh/Downloads/traveler-of-the-light-main/traveler-of-the-light-main/.utmp/RelWithDebInfo/5j66r4x6/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir

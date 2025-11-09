@@ -1,0 +1,2 @@
+C:\SANTHOSH\Unity Projects\2D Platformer\2D Platformer\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\SANTHOSH\Unity Projects\2D Platformer\2D Platformer\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\cpp\FramePacing\CMakeLists.txt
